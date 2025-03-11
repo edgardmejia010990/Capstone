@@ -1,7 +1,3 @@
-# Europe-Travel-Website-html-css-js
-Create A Responsive Tour &amp; Travel Agency Website Design Using HTML / CSS / JS
-A Responsive Adventure & Tour Website Design Using HTML CSS  & JavaScript Step By Step
-
 # Travel Europe LLC Static Website Deployment on Google Cloud
 
 ## Overview
@@ -78,9 +74,10 @@ Follow the next links with the app deployed in different sevices:
 *   Explore other Google Cloud services, such as Cloud CDN, to further optimize the website's performance.
 *   Implement health checks for improved reliability.
 
-## Contributing
+## Contributing Articles
 
-[Add instructions for contributing to the project, if applicable.]
-# HTML
-# CSS
-# JS
+* https://cloud.google.com/appengine/docs/standard/hosting-a-static-website?hl=es-419
+* https://cloud.google.com/artifact-registry/docs/configure-cloud-build?hl=es-419#docker
+* https://cloud.google.com/kubernetes-engine/docs/deploy-app-cluster#dockerfile
+* https://cloud.google.com/artifact-registry/docs/docker?hl=es-419
+* https://cloud.google.com/artifact-registry/docs/integrate-app-engine?hl=es-419
